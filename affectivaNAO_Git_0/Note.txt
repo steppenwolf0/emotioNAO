@@ -1,0 +1,3 @@
+In file "Program.cs" change the Data folder location from the Affdex SDK Install:
+e.g. 
+options.DataFolder = @"D:\NAO\NAO2018\data"; 

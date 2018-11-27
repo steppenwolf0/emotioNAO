@@ -1,0 +1,308 @@
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x64\concrt140.dll
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x64\cvextern.dll
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x64\msvcp140.dll
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x64\opencv_ffmpeg341_64.dll
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x64\vcruntime140.dll
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x86\concrt140.dll
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x86\cvextern.dll
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x86\msvcp140.dll
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x86\opencv_ffmpeg341.dll
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x86\vcruntime140.dll
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\Example.CameraCapture.exe.config
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\Example.CameraCapture.exe
+D:\Emgu\emgucv-windesktop 3.4.1.2976\bin\Example.CameraCapture.pdb
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture\obj\Debug\Example.CameraCapture.exe
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture\obj\Debug\Example.CameraCapture.pdb
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy\obj\Debug\CameraCapture.CameraCapture.resources
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy\obj\Debug\Example.CameraCapture.exe
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy\obj\Debug\Example.CameraCapture.pdb
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy\obj\Debug\CameraCapture.CameraCapture.resources
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy\obj\Debug\Example.CameraCapture.exe
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy\obj\Debug\Example.CameraCapture.pdb
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy\obj\Debug\CameraCapture.CameraCapture.resources
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy\obj\Debug\Example.CameraCapture.exe
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy\obj\Debug\Example.CameraCapture.pdb
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy - Copy\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy - Copy\obj\Debug\CameraCapture.CameraCapture.resources
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy - Copy\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy - Copy\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy - Copy\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy - Copy\obj\Debug\Example.CameraCapture.exe
+D:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\CameraCapture - Copy - Copy - Copy - Copy\obj\Debug\Example.CameraCapture.pdb
+F:\bin\Example.CameraCapture.exe.config
+F:\bin\Example.CameraCapture.exe
+F:\bin\Example.CameraCapture.pdb
+F:\clean\CameraCapture - Copy - Copy - Copy - Copy - Copy\obj\Debug\CameraCapture.CameraCapture.resources
+F:\clean\CameraCapture - Copy - Copy - Copy - Copy - Copy\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+F:\clean\CameraCapture - Copy - Copy - Copy - Copy - Copy\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+F:\clean\CameraCapture - Copy - Copy - Copy - Copy - Copy\obj\Debug\CameraCapture.csproj.CopyComplete
+F:\clean\CameraCapture - Copy - Copy - Copy - Copy - Copy\obj\Debug\Example.CameraCapture.exe
+F:\clean\CameraCapture - Copy - Copy - Copy - Copy - Copy\obj\Debug\Example.CameraCapture.pdb
+F:\clean\CameraCapture - Copy - Copy - Copy - Copy - Copy\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+F:\bin\x64\concrt140.dll
+F:\bin\x64\cvextern.dll
+F:\bin\x64\msvcp140.dll
+F:\bin\x64\opencv_ffmpeg341_64.dll
+F:\bin\x64\vcruntime140.dll
+F:\bin\x86\concrt140.dll
+F:\bin\x86\cvextern.dll
+F:\bin\x86\msvcp140.dll
+F:\bin\x86\opencv_ffmpeg341.dll
+F:\bin\x86\vcruntime140.dll
+F:\clean\Capture\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+F:\clean\Capture\obj\Debug\CameraCapture.CameraCapture.resources
+F:\clean\Capture\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+F:\clean\Capture\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+F:\clean\Capture\obj\Debug\CameraCapture.csproj.CopyComplete
+F:\clean\Capture\obj\Debug\Example.CameraCapture.exe
+F:\clean\Capture\obj\Debug\Example.CameraCapture.pdb
+F:\Work\bin\x64\concrt140.dll
+F:\Work\bin\x64\cvextern.dll
+F:\Work\bin\x64\msvcp140.dll
+F:\Work\bin\x64\opencv_ffmpeg341_64.dll
+F:\Work\bin\x64\vcruntime140.dll
+F:\Work\bin\x86\concrt140.dll
+F:\Work\bin\x86\cvextern.dll
+F:\Work\bin\x86\msvcp140.dll
+F:\Work\bin\x86\opencv_ffmpeg341.dll
+F:\Work\bin\x86\vcruntime140.dll
+F:\Work\bin\Example.CameraCapture.exe.config
+F:\Work\bin\Example.CameraCapture.exe
+F:\Work\bin\Example.CameraCapture.pdb
+F:\Work\running Code\Capture\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+F:\Work\running Code\Capture\obj\Debug\CameraCapture.CameraCapture.resources
+F:\Work\running Code\Capture\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+F:\Work\running Code\Capture\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+F:\Work\running Code\Capture\obj\Debug\CameraCapture.csproj.CopyComplete
+F:\Work\running Code\Capture\obj\Debug\Example.CameraCapture.exe
+F:\Work\running Code\Capture\obj\Debug\Example.CameraCapture.pdb
+F:\Work\bin\haarcascade_eye.xml
+F:\Work\bin\haarcascade_frontalface_default.xml
+F:\Work\running Code\bin\x64\concrt140.dll
+F:\Work\running Code\bin\x64\cvextern.dll
+F:\Work\running Code\bin\x64\msvcp140.dll
+F:\Work\running Code\bin\x64\opencv_ffmpeg341_64.dll
+F:\Work\running Code\bin\x64\vcruntime140.dll
+F:\Work\running Code\bin\x86\concrt140.dll
+F:\Work\running Code\bin\x86\cvextern.dll
+F:\Work\running Code\bin\x86\msvcp140.dll
+F:\Work\running Code\bin\x86\opencv_ffmpeg341.dll
+F:\Work\running Code\bin\x86\vcruntime140.dll
+F:\Work\running Code\bin\haarcascade_eye.xml
+F:\Work\running Code\bin\haarcascade_frontalface_default.xml
+F:\Work\running Code\bin\Example.CameraCapture.exe.config
+F:\Work\running Code\bin\Example.CameraCapture.exe
+F:\Work\running Code\bin\Example.CameraCapture.pdb
+F:\Work\running Code\Emotion Recognition\Capture\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+F:\Work\running Code\Emotion Recognition\Capture\obj\Debug\CameraCapture.CameraCapture.resources
+F:\Work\running Code\Emotion Recognition\Capture\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+F:\Work\running Code\Emotion Recognition\Capture\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+F:\Work\running Code\Emotion Recognition\Capture\obj\Debug\CameraCapture.csproj.CopyComplete
+F:\Work\running Code\Emotion Recognition\Capture\obj\Debug\Example.CameraCapture.exe
+F:\Work\running Code\Emotion Recognition\Capture\obj\Debug\Example.CameraCapture.pdb
+F:\Work\running Code\Emotion Recognition\Capture\bin\x64\concrt140.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\x64\cvextern.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\x64\msvcp140.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\x64\opencv_ffmpeg341_64.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\x64\vcruntime140.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\x86\concrt140.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\x86\cvextern.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\x86\msvcp140.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\x86\opencv_ffmpeg341.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\x86\vcruntime140.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\haarcascade_eye.xml
+F:\Work\running Code\Emotion Recognition\Capture\bin\haarcascade_frontalface_default.xml
+F:\Work\running Code\Emotion Recognition\Capture\bin\Example.CameraCapture.exe.config
+F:\Work\running Code\Emotion Recognition\Capture\bin\Example.CameraCapture.exe
+F:\Work\running Code\Emotion Recognition\Capture\bin\Example.CameraCapture.pdb
+F:\Work\running Code\Emotion Recognition\Capture\bin\Emgu.CV.UI.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\Emgu.CV.World.dll
+F:\Work\running Code\Emotion Recognition\Capture\bin\Emgu.CV.UI.xml
+F:\Work\running Code\Emotion Recognition\Capture\bin\Emgu.CV.World.xml
+F:\Work\running Code\Emotion Recognition\CaptureNAO\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+F:\Work\running Code\Emotion Recognition\CaptureNAO\obj\Debug\CameraCapture.CameraCapture.resources
+F:\Work\running Code\Emotion Recognition\CaptureNAO\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+F:\Work\running Code\Emotion Recognition\CaptureNAO\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+F:\Work\running Code\Emotion Recognition\CaptureNAO\obj\Debug\Example.CameraCapture.exe
+F:\Work\running Code\Emotion Recognition\CaptureNAO\obj\Debug\Example.CameraCapture.pdb
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\x64\concrt140.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\x64\cvextern.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\x64\msvcp140.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\x64\opencv_ffmpeg341_64.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\x64\vcruntime140.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\x86\concrt140.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\x86\cvextern.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\x86\msvcp140.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\x86\opencv_ffmpeg341.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\x86\vcruntime140.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\haarcascade_eye.xml
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\haarcascade_frontalface_default.xml
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\Example.CameraCapture.exe.config
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\Example.CameraCapture.exe
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\Example.CameraCapture.pdb
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\Emgu.CV.UI.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\Emgu.CV.World.dll
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\Emgu.CV.UI.xml
+F:\Work\running Code\Emotion Recognition\CaptureNAO\bin\Emgu.CV.World.xml
+F:\Work\running Code\Emotion Recognition\CaptureNAO\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\x64\concrt140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\x64\cvextern.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\x64\msvcp140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\x64\opencv_ffmpeg341_64.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\x64\vcruntime140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\x86\concrt140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\x86\cvextern.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\x86\msvcp140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\x86\opencv_ffmpeg341.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\x86\vcruntime140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\haarcascade_eye.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\haarcascade_frontalface_default.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\Example.CameraCapture.exe.config
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\Example.CameraCapture.exe
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\Example.CameraCapture.pdb
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\Emgu.CV.UI.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\Emgu.CV.World.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\Emgu.CV.UI.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\bin\Emgu.CV.World.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\obj\Debug\CameraCapture.CameraCapture.resources
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\obj\Debug\Example.CameraCapture.exe
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO\obj\Debug\Example.CameraCapture.pdb
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\x64\concrt140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\x64\cvextern.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\x64\msvcp140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\x64\opencv_ffmpeg341_64.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\x64\vcruntime140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\x86\concrt140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\x86\cvextern.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\x86\msvcp140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\x86\opencv_ffmpeg341.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\x86\vcruntime140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\haarcascade_eye.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\haarcascade_frontalface_alt.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\haarcascade_frontalface_alt2.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\haarcascade_frontalface_alt_tree.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\haarcascade_frontalface_default.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\Example.CameraCapture.exe.config
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\Example.CameraCapture.exe
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\Example.CameraCapture.pdb
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\Emgu.CV.UI.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\Emgu.CV.World.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\Emgu.CV.UI.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\bin\Emgu.CV.World.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\obj\Debug\CameraCapture.CameraCapture.resources
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\obj\Debug\Example.CameraCapture.exe
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V2\obj\Debug\Example.CameraCapture.pdb
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\x64\concrt140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\x64\cvextern.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\x64\msvcp140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\x64\opencv_ffmpeg341_64.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\x64\vcruntime140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\x86\concrt140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\x86\cvextern.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\x86\msvcp140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\x86\opencv_ffmpeg341.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\x86\vcruntime140.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\haarcascade_eye.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\haarcascade_frontalface_alt.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\haarcascade_frontalface_alt2.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\haarcascade_frontalface_alt_tree.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\haarcascade_frontalface_default.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\Example.CameraCapture.exe.config
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\Example.CameraCapture.exe
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\Example.CameraCapture.pdb
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\Emgu.CV.UI.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\Emgu.CV.World.dll
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\Emgu.CV.UI.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\bin\Emgu.CV.World.xml
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\obj\Debug\CameraCapture.CameraCapture.resources
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\obj\Debug\Example.CameraCapture.exe
+D:\NAO\NAO2018\Emotion Recognition\CaptureNAO V3\obj\Debug\Example.CameraCapture.pdb
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\x64\concrt140.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\x64\cvextern.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\x64\msvcp140.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\x64\opencv_ffmpeg341_64.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\x64\vcruntime140.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\x86\concrt140.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\x86\cvextern.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\x86\msvcp140.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\x86\opencv_ffmpeg341.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\x86\vcruntime140.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\haarcascade_eye.xml
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\haarcascade_frontalface_alt.xml
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\haarcascade_frontalface_alt2.xml
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\haarcascade_frontalface_alt_tree.xml
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\haarcascade_frontalface_default.xml
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\Example.CameraCapture.exe.config
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\Example.CameraCapture.exe
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\Example.CameraCapture.pdb
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\Emgu.CV.UI.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\Emgu.CV.World.dll
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\Emgu.CV.UI.xml
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\bin\Emgu.CV.World.xml
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.CameraCapture.resources
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\Example.CameraCapture.exe
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\Example.CameraCapture.pdb
+D:\NAO\NAO2018\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.naoControls.resources
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\x64\concrt140.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\x64\cvextern.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\x64\msvcp140.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\x64\opencv_ffmpeg341_64.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\x64\vcruntime140.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\x86\concrt140.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\x86\cvextern.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\x86\msvcp140.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\x86\opencv_ffmpeg341.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\x86\vcruntime140.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\haarcascade_eye.xml
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\haarcascade_frontalface_alt.xml
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\haarcascade_frontalface_alt2.xml
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\haarcascade_frontalface_alt_tree.xml
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\haarcascade_frontalface_default.xml
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\Example.CameraCapture.exe.config
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\Example.CameraCapture.exe
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\Example.CameraCapture.pdb
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\Emgu.CV.UI.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\Emgu.CV.World.dll
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\Emgu.CV.UI.xml
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\bin\Emgu.CV.World.xml
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.CameraCapture.resources
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.naoControls.resources
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\CameraCapture.csproj.CopyComplete
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\Example.CameraCapture.exe
+D:\NAO\NAO2018\GIT\cnnNAO_Git_0\CaptureNAO V3\obj\Debug\Example.CameraCapture.pdb
